@@ -11,13 +11,13 @@ May 2019, I published a little cheatsheet to be used for measuring Cyber Threat 
 Target audience division when concerned about CTI metrics:
 - Strategic; Executive teams, C-level, CISO, business reps
 - Tactical ; SOC managers, Information security officers, business reps
-- Operational; Security analysts, CTI analysis, Incident responders, business reps
+- Operational; Security analysts, CTI analysis, Incident responders, business reps
 
 Few personal considerations:
 - I believe mature CTI metrics are correlated with business goals, outcomes and enablement. You measure on performance & effectiveness.
 - Measurement is only possible by clear alignment with audience & stakeholder(s); understanding what they need and define PIRs (Priority intelligence requirement) accordingly. PIRs guide improvement of metrics, and supporting technology required. 
 - When organizations reach intermediate phase, KPIs generally continuously become reviewed, refined and defined. In essence is this done by (re)defining PIRs for each stage of the clients specific intelligence cycle and governing it through an dedicated intelligence program.
-- Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model (not public ).
+- Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model (build for my previous employer).
 
 
 
