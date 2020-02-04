@@ -5,7 +5,7 @@ There's a Dutch saying called 'Meten is weten'. It basically implies if you meas
 
 Let me know what you think! @gertjanbruggink
 
-# CTI Metrics
+# Measuring the succes of your CTI program 
 May 2019, I published a little cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk* by  @MarSChauvin & @t_gidwani on CTI metrics. From that moment on, I try to keep anything related to measurement & CTI in a central thingy. Per Jan 2020, i've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details.
 
 Target audience division when concerned about CTI metrics:
