@@ -1,4 +1,15 @@
-# Metrics (intro)
+_____ ______   _______  _________  ________  ___  ________  ________      
+|\   _ \  _   \|\  ___ \|\___   ___\\   __  \|\  \|\   ____\|\   ____\     
+\ \  \\\__\ \  \ \   __/\|___ \  \_\ \  \|\  \ \  \ \  \___|\ \  \___|_    
+ \ \  \\|__| \  \ \  \_|/__  \ \  \ \ \   _  _\ \  \ \  \    \ \_____  \   
+  \ \  \    \ \  \ \  \_|\ \  \ \  \ \ \  \\  \\ \  \ \  \____\|____|\  \  
+   \ \__\    \ \__\ \_______\  \ \__\ \ \__\\ _\\ \__\ \_______\____\_\  \ 
+    \|__|     \|__|\|_______|   \|__|  \|__|\|__|\|__|\|_______|\_________\
+                                                               \|_________|
+                                                                           
+                                                                           
+
+# Intro
 In this directory tips & tricks for improving measurement mechanics into your organization.
 
 There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. Folks find it really difficult to actually come up with something tangible. This was the main reason for me  to publish any relevant content I produced or found online. This way, we can all participate in improving measurement.
