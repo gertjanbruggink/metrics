@@ -6,7 +6,7 @@ There's a Dutch saying called 'Meten is weten'. It basically implies if you meas
 Let me know what you think! @gertjanbruggink
 
 # Measuring your CTI program 
-May 2019, I published a little cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk* by  @MarSChauvin & @t_gidwani on CTI metrics. From that moment on, I try to keep anything related to measurement & CTI in a central thingy. Per Jan 2020, i've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2023. The major lessons learned so far is that the metrics have not changed that much over the years, but how we combine them together to tell a story did. How this impacts your organization in practice is something you have to understand within the context of your own organization.
+May 2019, I published a little cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk* by  @MarSChauvin & @t_gidwani on CTI metrics. From that moment on, I try to keep anything related to measurement & CTI in a central thingy. Per Jan 2020, i've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2023. The major lesson learned so far is that the metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization.
 
 Target audience division when concerned about CTI metrics:
 - Strategic; Executive teams, C-level, CISO, business reps
@@ -22,7 +22,6 @@ Few personal considerations:
 *Source:https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf
 
 For more information on how cyber threat intelligence metrics relate to an overall capability: https://github.com/Errum/IntelArchitectureMap
-![image](https://user-images.githubusercontent.com/50614049/213733566-b1e44d05-605a-419a-83e3-cb820d77099e.png)
 
 
 # Measuring your Vulnerability Management program 
