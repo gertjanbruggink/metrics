@@ -1,0 +1,34 @@
+Audiences;Stakehholder value;Starter;Intermediate;Advanced;Comments
+Strategic;Higher;Amount of ad-hoc PIRs requested (e.g. RFIs);Amount of intelligence products created that include forecasting and filtered per PIR;Amount of revenue saved (currency);
+;;Amount of ad-hoc PIRs not meeting the standing list of PIRs;Amount of non-security projects, where CTI contributed to actionable insights (e.g. M&A);"Mean cost of breach; Downtime";
+;;Percentage of qualitative feedback loops completed for standing PIRs;;"Mean cost of breach; resources to address breach";
+;Lesser;Amount of PIRs documented;Amount of intelligence products created;Amount of cost of CTI capacity vs revenue saved;
+;;Amount of stakeholders;;;
+Tactical;Higher;Amount of ad-hoc PIRs requested (e.g. RFIs);Amount of new intelligence produced from IR cases;"Impact over year; Mean time to detect";GB: Optionally combine with % change based on # of ad-hoc PIRs feedback received.
+;;Amount of ad-hoc PIRs not meeting the standing list of PIRs;Incident criticality impacted by TI (e.g. urgent patching);"Impact over year; Mean time to respond";GB: Optionally combine with % change based on # of ad-hoc PIRs feedback received.
+;;Percentage of qualitative feedback loops completed for standing PIRs;Amount of TTPs emulated, measured against ATT&CK, not detected by SOC.;;GB: Optionally combine with trend reporting.
+;;Amount of new incidents discovered through CTI;;;
+;;Total amount of curated intelligence products  ;;;
+;;Amount of tracked TTPs targeting client or similar companies;;;
+;Lesser;Amount of PIRs documented;Amount of TTPs emulated, measured against ATT&CK;Weeded out through continuous improvement;
+;;Amount of adversaries identified targeting client;;;
+;;Amount of campaigns identified directly targeting client;;;
+Operational;Higher;Amount of ad-hoc PIRs requested (e.g. RFIs);Percentage of false positive ratio for ingested feeds (feed efficiency metrics);Percentage of assessments made in intelligence products that were incorrect;
+;;Amount of ad-hoc PIRs not meeting the standing list of PIRs;New intelligence produced from IR cases;;
+;;Percentage of qualitative feedback loops completed for standing PIRs;Incident criticality impacted by TI (e.g. urgent patching);;
+;;Amount of IOCs, added to SOC workflow(s);Internal incident trend analysis;;
+;;Amount of IOCs, observed across security solutions (various);Amount of countermeasures enabled by CTI input ;;
+;;Percentage/amount of internal incidents that has had CTI follow-up or worked on;Source management & analysis metrics;;
+;;Amount of new incidents discovered through CTI;Percentage of hunts created based on CTI input;;
+;;Percentage of reported incidents correlated with IOCs ;;;
+;;Amount of IOCs parsed from previous incidents;;;GB: If you stay longer in this segment than 6 months, you are not growing as a practice, team or individual. 
+;;Amount of IOCs shared through MISP with (industry) peers;;;GB: If you stay longer in this segment than 6 months, you are not growing as a practice, team or individual. 
+;;Vulnerability related metrics (depending on PIRs!);;;
+;;Sources management: Coverage;;;
+;Lesser;Amount of ingested feeds;Starting to get weeded out at this point;Weeded out through continuous improvement;GB: If you stay longer in this segment than 6 months, you are not growing as a practice, team or individual. 
+;;Amount of ingested & processed IOCs;;;GB: If you stay longer in this segment than 6 months, you are not growing as a practice, team or individual. 
+;;Amount of IOCs shared through MISP;;;GB: If you stay longer in this segment than 6 months, you are not growing as a practice, team or individual. 
+;;Number of reports read;;;
+;;Individual IOC detection statistics per security solution;;;
+;;Amount of incidents in progress;;;
+;;Amount of PIRs documented for operational stakeholder(s);;;
