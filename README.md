@@ -10,21 +10,26 @@ May 2019, I published this cheatsheet to be used for measuring Cyber Threat Inte
 
 Most notable is that the metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
+# Screenshot:
+![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
+
+# Audience
 Target audience division when concerned about CTI metrics:
 - Strategic; Executive teams, C-level, CISO, business reps
 - Tactical ; SOC managers, Information security officers, business reps
 - Operational; Security analysts, CTI analysis, Incident responders, business reps
 
-Few personal considerations:
+# Personal considerations:
 - I believe mature CTI metrics are correlated with business goals, outcomes and enablement. You measure on performance & effectiveness. The most valuable is measuring effectiveness, the least valuable is performance.
 - Measurement is only possible by clear alignment with audience & stakeholder(s); understanding what they need and define PIRs (Priority intelligence requirement) accordingly. PIRs guide improvement of metrics, and supporting technology required. This also dictates the reporting format.
 - When organizations reach intermediate phase, KPIs (or KCI's) generally continuously become reviewed, refined and defined. In essence is this done by (re)defining PIRs for each stage of the clients specific intelligence cycle and governing it through an dedicated intelligence program.
 - Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
+- Metrics is a means to an end. If you didn't have it clear in the first place what you will do with the output, then first fix that before diving into cool dashboards or number porn. Start with the basics first (yes, I know).
 
 
-For more information on how cyber threat intelligence metrics relate to an overall capability: 
+Would you like to explore a more comprehensive view onhow cyber threat intelligence metrics relate to an overall capability? Visit this mindmap: 
 https://github.com/Errum/IntelArchitectureMap
 
 
 # Measuring your Vulnerability Management program 
-Added after building some measurements for a client. 
+Added after building measurements for a client. Not actively maintained.
