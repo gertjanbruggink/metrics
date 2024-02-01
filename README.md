@@ -5,13 +5,12 @@ There's a Dutch saying called 'Meten is weten'. It basically implies if you meas
 
 Let me know what you think! @gertjanbruggink
 
-# Measuring your CTI program 
+# On measuring 
 May 2019, I published this cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk by  [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). From that moment on, I keep anything related to measurement & CTI in a central Excel document. Per Jan 2020, I've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2024. 
 
 Most notable is that the metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
-# Screenshot:
-![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
+After building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the CTI one.
 
 # Audience
 Target audience division when concerned about CTI metrics:
@@ -25,11 +24,15 @@ Target audience division when concerned about CTI metrics:
 - When organizations reach intermediate phase, KPIs (or KCI's) generally continuously become reviewed, refined and defined. In essence is this done by (re)defining PIRs for each stage of the clients specific intelligence cycle and governing it through an dedicated intelligence program.
 - Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
 - Metrics is a means to an end. If you didn't have it clear in the first place what you will do with the output, then first fix that before diving into cool dashboards or number porn. Start with the basics first (yes, I know).
+- 
+# Screenshot:
+![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
 
 
+
+# Other
 Would you like to explore a more comprehensive view onhow cyber threat intelligence metrics relate to an overall capability? Visit this mindmap: 
 https://github.com/Errum/IntelArchitectureMap
 
 
-# Measuring your Vulnerability Management program 
-Added after building measurements for a client. Not actively maintained.
+
