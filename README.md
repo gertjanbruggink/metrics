@@ -24,7 +24,7 @@ Target audience division when concerned about CTI metrics:
 - When organizations reach intermediate phase, KPIs (or KCI's) generally continuously become reviewed, refined and defined. In essence is this done by (re)defining PIRs for each stage of the clients specific intelligence cycle and governing it through an dedicated intelligence program.
 - Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
 - Metrics is a means to an end. If you didn't have it clear in the first place what you will do with the output, then first fix that before diving into cool dashboards or number porn. Start with the basics first (yes, I know).
-- 
+
 # Screenshot:
 ![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
 
