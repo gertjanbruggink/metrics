@@ -1,22 +1,24 @@
 # Intro
-In this directory tips & tricks for improving measurement mechanics into your organization.
+In this directory tips & tricks for effectively demonstrating value as cyber security teams.
 
 There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. Folks find it really difficult to actually come up with something tangible. This was the main reason for me  to publish any relevant content I produced or found online. This way, we can all participate in improving measurement.
 
 Let me know what you think! @gertjanbruggink
 
 # On measuring 
-May 2019, I published this cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk by  [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). From that moment on, I keep anything related to measurement & CTI in a central Excel document. Per Jan 2020, I've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2024. 
+May 2019, I published this cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk by  [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). From that moment on, I keep anything related to measurement & Cyber Threat Intelligence in a central Excel document. Per Jan 2020, I've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2024. 
 
-Most notable is that the metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
+Most notable is that the Cyber Threat Intelligence metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
-After building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the CTI one.
+After building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the Cyber Threat Intelligence one. Per February 2024 I started populating the repository with generic metrics, after increased interest from a wider audience looking to demonstrate value for their entire cyber security program.
 
 # Audience
-Target audience division when concerned about CTI metrics:
+Target audience division used when concerned about metrics:
 - Strategic; Executive teams, C-level, CISO, business reps
 - Tactical ; SOC managers, Information security officers, business reps
 - Operational; Security analysts, CTI analysis, Incident responders, business reps
+
+Please note that in business practices, you sometimes see tactical & operational being used interchangeably.
 
 # Personal considerations:
 - I believe mature CTI metrics are correlated with business goals, outcomes and enablement. You measure on performance & effectiveness. The most valuable is measuring effectiveness, the least valuable is performance.
