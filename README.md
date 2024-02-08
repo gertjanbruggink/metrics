@@ -27,7 +27,7 @@ Please note that in business practices, you sometimes see tactical & operational
 - Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
 - Metrics is a means to an end. If you didn't have it clear in the first place what you will do with the output, then first fix that before diving into cool dashboards or number porn. Start with the basics first (yes, I know).
 
-# Screenshot:
+# Screenshot cyber threat intelligence metrics:
 ![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
 
 
