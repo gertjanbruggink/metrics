@@ -10,7 +10,9 @@ May 2019, I published this cheatsheet to be used for measuring Cyber Threat Inte
 
 Most notable is that the Cyber Threat Intelligence metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
-After building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the Cyber Threat Intelligence one. Per February 2024 I started populating the repository with generic metrics, after increased interest from a wider audience looking to demonstrate value for their entire cyber security program.
+After building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the Cyber Threat Intelligence one. 
+
+Per February 2024 I started populating the repository with generic metrics, after increased interest from a wider audience looking to demonstrate value for their entire cyber security program.
 
 # Audience
 Target audience division used when concerned about metrics:
