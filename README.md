@@ -1,4 +1,4 @@
-# Intro
+![image](https://github.com/gertjanbruggink/Metrics/assets/50614049/6d24760d-9098-49a6-9a03-bdb03d21dc24)# Intro
 In this directory tips & tricks for effectively demonstrating value as cyber security teams.
 
 There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. Folks find it really difficult to actually come up with something tangible. This was the main reason for me  to publish any relevant content I produced or found online. This way, we can all participate in improving measurement.
@@ -32,7 +32,8 @@ When talking about cyber threat intelligence specifically:
 - Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
 
 # Screenshot cyber threat intelligence metrics:
-![2024 - Screenshot CTI metrics ](https://github.com/gertjanbruggink/Metrics/assets/50614049/ff39b37a-4595-4343-a9db-30769304d3f4)
+![image](https://github.com/gertjanbruggink/Metrics/assets/50614049/a91a23d2-7396-4960-a760-7a15eb2779e0)
+
 
 
 
