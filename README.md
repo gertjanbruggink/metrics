@@ -6,7 +6,7 @@ There's a Dutch saying called 'Meten is weten'. It basically implies if you meas
 Let me know what you think! @gertjanbruggink
 
 # On measuring 
-May 2019, I published this cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk by  [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). From that moment on, I keep anything related to measurement & Cyber Threat Intelligence in a central Excel document. Per Jan 2020, I've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2024. 
+May 2019, I published a cheatsheet to be used for measuring Cyber Threat Intelligence. I was inspired by a talk by  [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). From that moment on, I keep anything related to measurement & Cyber Threat Intelligence in a central Excel document. Per Jan 2020, I've moved  details to this repo to make it easier for me to update the set and for you to plug/contribute the latest details. The latest update to the doc is from Jan 2024. 
 
 Most notable is that the Cyber Threat Intelligence metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
