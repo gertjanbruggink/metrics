@@ -1,4 +1,4 @@
-# Intro
+# Value-based Security
 In this directory tips & tricks for effectively demonstrating value as cyber security teams.
 
 There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. Folks find it really difficult to actually come up with something tangible. This was the main reason for me  to publish any relevant content I produced or found online. This way, we can all participate in improving measurement.
