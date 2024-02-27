@@ -1,13 +1,24 @@
 # Measuring Value-Based Security
-In this directory you tips & tricks for (cyber) security teams to effectively demonstrate value.
+This directory contains tips & tricks for (cyber) security teams to effectively demonstrate value of their security efforts.
 
-There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. Folks find it really difficult to actually come up with something tangible. This was the main reason for me to publish any relevant content I produced or found online. This way, we can all leverage this content effectively.
+There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. 
+
+Folks find it really difficult to actually come up with something tangible. 
+
+This was the main reason for me to publish any relevant content I produced or found online. This way, we can all leverage this content effectively.
+
+Content index:
+
+* [CTI](https://github.com/gertjanbruggink/Metrics/tree/master/CTI)
+* [Threat Informed Defense](https://github.com/gertjanbruggink/Metrics/tree/master/Threat%20Informed%20Defense)
+* [Vulnerability Management](https://github.com/gertjanbruggink/Metrics/tree/master/Vulnerability%20Management)
+* [Cyber Security / EXPERIMENTAL STATE](https://github.com/gertjanbruggink/Metrics/tree/master/Cyber%20Security)
 
 
 # Background 
 Since May 2019 I started curating a cyber threat intelligence metrics overview. Initially it was just a collection, inspired by a talk by [@MarSChauvin & @t_gidwani on CTI metrics](https://www.first.org/resources/papers/london2019/1130-How-to-Get-Promoted-Gidwani.pdf). A long list. It wasn't very useful. Some clients are more mature, some had more effect on certain audiences and some had more impact with stakeholders than others. Tweaking the overview based on these findings, client feedback & aligning it with (cyber threat intelligence) maturity models, it turned into something very practical giving teams a one-page sense-of-direction. 
 
-Most notable is that the Cyber Threat Intelligence metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
+Cyber Threat Intelligence metrics have not changed that much over the years. How we combine them together to tell a story did. Ration if you will. How this impacts your organization in practice is something you have to understand within the context of your own organization. A key adjustment based over time related to teams reporting on effectiveness and trends versus pure, factual, numbers.
 
 Per April 2022, after building measurements for a clients vulnerability management program, I created a separate file. Please note that this one is not actively maintained as the Cyber Threat Intelligence one. 
 
