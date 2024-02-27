@@ -9,7 +9,7 @@
 | #Strategic | #Higher | Intermediate | Number of intelligence products created that include forecasting and filtered per PIR |  |  |
 | #Strategic | #Higher | Intermediate | Number of non-security projects, where CTI contributed to actionable insights (e.g. M&A) |  |  |
 | #Strategic | #Lesser | Intermediate | Number of intelligence products created |  |  |
-| #Strategic | #Higher | Advanced | Number of revenue saved (currency) |  |  |
+| #Strategic | #Higher | Advanced | Amount of revenue saved (currency) |  |  |
 | #Strategic | #Higher | Advanced | Mean cost of breach; Downtime |  |  |
 | #Strategic | #Higher | Advanced | Mean cost of breach; resources to address breach |  |  |
 | #Strategic | #Lesser | Advanced | Number of cost of CTI capacity vs revenue saved |  |  |
