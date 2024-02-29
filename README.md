@@ -45,7 +45,8 @@ When talking about cyber threat intelligence metrics:
 3. Higher vs lesser value is based on stakeholder & community feedback, qualitative review of existing metrics and quantitative tracking through a maturity model: https://www.crest-approved.org/buying-building-cyber-services/cyber-threat-intelligence-maturity-assessment-tools/.
 
 # Screenshot cyber threat intelligence metrics:
-![image](https://github.com/gertjanbruggink/Metrics/assets/50614049/a91a23d2-7396-4960-a760-7a15eb2779e0)
+![image](https://github.com/gertjanbruggink/Metrics/assets/50614049/09f93f81-404b-46f7-8890-1cd8c492e83c)
+
 
 
 
