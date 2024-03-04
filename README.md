@@ -1,4 +1,4 @@
-# Measuring Value-Based Security
+# Create your Value Operating System
 This directory contains tips & tricks for (cyber) security teams to effectively demonstrate value of their security efforts.
 
 There's a Dutch saying called 'Meten is weten'. It basically implies if you measure something, you are able to understand it better. Sounds easy right? It's not. 
